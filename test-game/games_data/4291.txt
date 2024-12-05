@@ -1,0 +1,4 @@
+Title: Counter-Strike: Global Offensive
+Description: N/A
+Genres: Shooter
+Released: 2012-08-21
